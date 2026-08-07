@@ -1,20 +1,29 @@
-# Variables y operadores
+# Unidad 01 — Variables y operadores
 
 ## Objetivo
 
-Practicar el uso de variables, tipos de datos y operadores básicos en C.
+Practicar los conceptos fundamentales de C relacionados con la declaración y utilización de variables y el uso de operadores.
 
 ## Conceptos
 
-- Variables
-- Tipos de datos
-- Constantes
-- Operadores aritméticos
-- Entrada y salida estándar
+* Declaración e inicialización de variables
+* Tipos de datos básicos: `int`, `float`, `char`
+* Entrada de datos con `scanf`
+* Salida de datos con `printf`
+* Operadores aritméticos: `+`, `-`, `*`, `/`, `%`
+* Operadores de asignación
+* Conversión y uso de distintos tipos numéricos
 
 ## Ejercicios
 
-- Hola Mundo
-- Variables y tipos de datos
-- Operaciones básicas
-- Conversión de temperatura
+| Ejercicio                     | Descripción                                                   |
+| ----------------------------- | ------------------------------------------------------------- |
+| `01_calculadora.c`            | Operaciones aritméticas básicas con dos números               |
+| `02_conversion_temperatura.c` | Conversión entre distintas unidades de temperatura            |
+| `03_intercambio_variables.c`  | Intercambio de valores utilizando una variable auxiliar       |
+| `04_calculo_circuito.c`       | Cálculos eléctricos básicos utilizando variables y operadores |
+
+## Aplicación
+
+El último ejercicio relaciona los conceptos de programación con cálculos básicos utilizados en electrónica.
+
